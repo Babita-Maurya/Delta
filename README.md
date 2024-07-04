@@ -1,2 +1,2 @@
 # Delta
-This is Demo of Apna Collage for Git &amp; GitHub.
+This is Demo of Apna Collage for Git &amp; GitHub project.
